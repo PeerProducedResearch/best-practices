@@ -4,8 +4,8 @@ title: "P2P Best Practices"
 description: "Welcome to this collection of best practices to build great sites for collaborative knowledge production"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/mediumish-theme-jekyll'
-url: 'https://katoss.github.io'
+baseurl: '/best-practices'
+url: 'https://peer-produced.science'
 google_analytics: ''
 disqus: 'demowebsite'
 mailchimp-list: ''
