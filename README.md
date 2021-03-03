@@ -18,6 +18,7 @@ I used the **theme** ['Mediumish for Jekyll'](https://github.com/wowthemesnet/me
 
 # Vision statement
 
-“I am building a resource that collects best practices for the online peer-production of knowledge, so that people who want to develop these kinds of platforms can use it as a source of inspiration or add their own best practices. This resource is developed as part of my PhD, which is about building an online platform of this kind. Since peer-production has collaboration and sharing at its heart, I would like to expand this idea to the platform development process, and make it open and collaborative. In that way, my background research becomes something that other people with similar projects can profit from.”
+*"I am building a resource that collects best practices for the online peer-production of knowledge, so that people who want to develop these kinds of platforms can use it as a source of inspiration or add their own best practices. Since peer-production has collaboration and sharing at its heart, I would like to expand this idea to the platform development process, and make it open and collaborative.
+This resource is developed as part of my PhD, which is about building an online platform of this kind. In that way, my background research becomes something that other people with similar projects can profit from. Pontential users are UX and web designers and developers, citizen science practitioners, and potential contributors as well as users could be researchers in the fields of UX, peer-production and citizen science."*
 
 
