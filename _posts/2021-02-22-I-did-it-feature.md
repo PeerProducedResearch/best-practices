@@ -5,6 +5,8 @@ author: kat
 categories: [ publiclab, environmental-monitoring, diy-science, communal-validation, feedback, feature, UI ]
 image: assets/images/2021-02-22-I-did-it-feature-0.jpg
 ---
+## Short introduction to the feature
+
 On Public Lab users can publish activities, which contain mostly instruction manuals on how to build and use do-it-yourself environmental monitoring tools.
 For example, how to build a plant-based air purifier. The platform encourages users to replicate these activities and publish their experiences, so the authors get feedback and the instructions can be improved, if necessary, or adapted to different contexts and use cases.
 
@@ -29,6 +31,7 @@ When users click the button, they are guided to a markdown template (see Figure 
 
 I like this feature, because it encourages other users to become active, replicate an activity and document it, so the original author and other users can profit from hands-on feedback. 
 By automatically collecting all replications in a list using a tag system, it is easy to get an overview of how many times this activity has been tried and tested, and the content is easy to find.
+This feature is suitable for open ended tasks without one definite solution that benefit from qualitative feedback.
 
 ## References
 
