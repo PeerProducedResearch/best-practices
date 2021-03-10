@@ -4,8 +4,9 @@ title:  "Blog post template"
 author: unknown # you can add yourself as an author in the config.yml file if you like. Once you did this, you only need to type the nickname you chose (e.g. kat, in my case). Keep in mind that even if you don't add your name, you are not anonymous, because your GitHub username will show up in the commits on GitHub. 
 categories: [] # add categories that will help the reader find and understand the context of your feature. You can use any keyword you like, but please have a look at the blog to check out existing keywords first to avoid duplicates which are just spelled a little differently.
 image: assets/images/yyyy-mm-dd-default-blog-post-image.jpg # you can add a custom image to the assets/images folder if you like (750x500px, jpg format, named like your post with a '0' attached, e.g. '2021-02-22-I-did-it-feature-0.jpg')
+synopsis: "Short summary of the feature" # a short summary of the feature, no longer than 50 characters
 ---
-(Wondering how to add your blog posts to this blog? Have a look here: [Get involved]({{site.baseurl}}/get-involved))
+<p class="text-muted small">(Wondering how to add your blog posts to this blog? Have a look here: <a href="{{site.baseurl}}/get-involved">Get involved</a>)</p>
 
 ## Short introduction to the feature
 
