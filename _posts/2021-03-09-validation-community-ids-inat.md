@@ -47,4 +47,4 @@ Another strength of this approach is its openness. It is publicly visible which 
 - [Getting started guide on iNaturalist with a detailed explanation of the communal validation process](https://www.inaturalist.org/pages/getting+started)
 - Hochmair, H. H., Scheffrahn, R. H., Basille, M., & Boone, M. (2020). Evaluating the data quality of iNaturalist termite records. PloS one, 15(5), e0226534. [(URL)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226534)
 
-(updated 15-03-2021)
+(updated 15-03-2021 by [Katharina/@katoss](https://github.com/katoss))
