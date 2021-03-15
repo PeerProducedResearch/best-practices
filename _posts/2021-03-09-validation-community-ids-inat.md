@@ -37,11 +37,14 @@ The whole process with many helpful visualizations is explained here, under the 
 # Thoughts
 
 This solution of iNaturalist to leverage the wisdom of the crowd to collectively identify an observation, allowing different levels of precision, is a great example for a communal validation process. This exact procedure is of course specifically for biodiversity data (making use of the taxonomy hierarchy, and having a limited set of possible answers, because there is a limited number of species). However, I think a similar approach - tagging new entries with "needs validation", having users make guesses, and accepting the answer a certain proportion of users agreed on - is imaginable for other problems.
-
 The accuracy of iNaturalist community IDs has been considered excellent in a study on termite classifications (Hochmair et al., 2020), which is another argument for the effectiveness of this communal validation process. 
+
+Another strength of this approach is its openness. It is publicly visible which identification users suggested, so it is traceable how the community ID was determined. In this way, users can get feedback on their responses and, thus, an opportunity to learn. With regards to transparency and user empowerment, this can be seen as an advantage over more traditional crowdsourcing approaches as used in Mechanical Turk or Zooniverse, where the communal validation part is not visible to users.
 
 ## References
 
 - [iNaturalist website](https://www.inaturalist.org/)
 - [Getting started guide on iNaturalist with a detailed explanation of the communal validation process](https://www.inaturalist.org/pages/getting+started)
 - Hochmair, H. H., Scheffrahn, R. H., Basille, M., & Boone, M. (2020). Evaluating the data quality of iNaturalist termite records. PloS one, 15(5), e0226534. [(URL)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226534)
+
+(updated 15-03-2021)
