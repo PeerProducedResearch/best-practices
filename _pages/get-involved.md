@@ -4,12 +4,14 @@ title: Get involved
 permalink: /get-involved
 comments: true
 ---
-# Get involved
-### I discovered some interesting peer production features online that I would like to share. Can I contribute to this blog? Can I use the content of this blog for my own purposes?
-Yes! You are cordially invited to add your own blog posts about great peer production features you discovered online (here is a template for blog posts), to update or comment on existing articles. You are also free to reuse the content according to the CC-BY-SA licence (see **Licences***).
+### Can I contribute to this website?
+Yes, you are cordially invited to do so! This project is open for reuse and participation, developed as part of the [Open Life Science mentoring program](https://openlifesci.org/). See the points below for specifications on how to contribute to or reuse content or code.
 
-### I am a developer. Can I adapt or use your template?
-You are cordially invited to improve the template of this Github pages/Jekyll template. Just send a pull request 😊 You are also free to reuse the code according to the CC-BY-SA/MIT licence (see **Licences**).
+### Content: I discovered some interesting peer production features online that I would like to share. Can I contribute to this blog? Can I use the content of this blog for my own purposes?
+Yes! You can add your own blog posts about great peer production features you discovered online (here is a template for blog posts), to update or comment on existing articles. You are also free to reuse the content according to the CC-BY-SA licence (see **Licences***).
+
+### Code: I am a developer. Can I adapt or use your template?
+Yes! You can improve the template of this Github pages/Jekyll template. Just send a pull request 😊 You are also free to reuse the code according to the CC-BY-SA/MIT licence (see **Licences**).
 
 ### Licences 
 All **content** of this work is licensed under a
