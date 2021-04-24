@@ -17,10 +17,10 @@ To recap: Science is about producing knowledge, citizen science about involving 
 Yes! See [Get involved](https://peer-produced.science/best-practices/get-involved).
 
 ### References
-Bechhofer, S., De Roure, D., Gamble, M., Goble, C., & Buchan, I. (2010). Research objects: Towards exchange and reuse of digital knowledge. Nature Precedings, 1-1.
+Bechhofer, S., De Roure, D., Gamble, M., Goble, C., & Buchan, I. (2010). Research objects: Towards exchange and reuse of digital knowledge. *Nature Precedings*, 1-1.
 
-Benkler, Y., Shaw, A., & Hill, B. M. (2015). Peer production: A form of collective intelligence. Handbook of collective intelligence, 175.
+Benkler, Y., Shaw, A., & Hill, B. M. (2015). Peer production: A form of collective intelligence. *Handbook of collective intelligence*, 175.
 
-Ottinger, G., Tyfield, D., Lave, R., Randalls, S., & Thorpe, R. (2017). Reconstructing or reproducing? Scientific authority and models of change in two traditions of citizen science. The routledge handbook of the political economy of science, 351, 9781315685397-31.
+Ottinger, G., Tyfield, D., Lave, R., Randalls, S., & Thorpe, R. (2017). Reconstructing or reproducing? Scientific authority and models of change in two traditions of citizen science. *The routledge handbook of the political economy of science*, 351, 9781315685397-31.
 
-Vayena, E., & Tasioulas, J. (2015). “We the scientists”: a human right to citizen science. Philosophy & Technology, 28(3), 479-485.
+Vayena, E., & Tasioulas, J. (2015). “We the scientists”: a human right to citizen science. *Philosophy & Technology*, 28(3), 479-485.
