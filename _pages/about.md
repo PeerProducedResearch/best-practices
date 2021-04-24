@@ -5,32 +5,13 @@ permalink: /about
 comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-WIP
+## What is this website about?
+This website is thought to be an ever-growing **collection of guidelines and best practices for online peer production**. It is aimed at web developers and UX designers who want to build peer production platforms, and more generally at people interested in increasing participation in their online projects. The thematic priority is the peer production of research projects in citizen science (because this is what my [PhD is about](https://projects.cri-paris.org/projects/DngFftiU/summary)), but the guidelines and features should be applicable to other peer production contexts, too. This project started out as supplementary material for a scientific article I’m writing on this topic (link to the preprint will follow asap). It included lots of research on peer production online platforms, too much to discuss all in detail in an article. Since, to the best of my knowledge, guidelines of this kind don’t exist yet, I hope that my *personal notes* can be helpful to other people in form of this open online resource, developed as part of the [Open Life Science mentoring program](https://openlifesci.org/). I will also add new features from time to time, if I find something interesting, and you are also cordially invited to contribute!
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+## What is peer production? What is citizen science? Why peer production in citizen science?
+Peer production is a way of online distributed knowledge production that relies on the collective intelligence of self-organizing groups of individuals, without or with less rigid hierarchical control and management (Benkler et al., 2015). This mode of knowledge production is most commonly known from projects like Wikipedia or Open Source Software. Thus, provenly, complex knowledge objects, like an encyclopedia or software code can and still continue to be developed in this way. Science, from a very general perspective, can also be framed as the creation of complex knowledge objects, and more and more of these objects take shape as a digital format, e.g. in the form of databases, code or articles (Bechhofer et al., 2010). Citizen science is about involving the public in scientific activities, or more specifically individuals who don’t necessarily have formal academic credentials, like a university degree. This practice holds a connotation of democratizing the access to science as a whole and allows, in some of its variants, participation in several phases of the research cycle or completely autonomous research (Ottinger et al., 2017; Vayena et al., 2015). 
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+To recap: Science is about producing knowledge, citizen science about involving individuals from the public in this process. Peer production is a way of producing knowledge, relying on self-organizing communities with individuals from the public. So why not adopt a peer production approach in citizen science projects?
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+## Can I contribute to the content or the code of this website?
+Yes! See [Get involved](https://peer-produced.science/best-practices/get-involved).
