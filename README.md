@@ -31,3 +31,4 @@ Benkler, Y., Shaw, A., & Hill, B. M. (2015). Peer production: A form of collecti
 
 Ottinger, G., Tyfield, D., Lave, R., Randalls, S., & Thorpe, R. (2017). Reconstructing or reproducing? Scientific authority and models of change in two traditions of citizen science. *The routledge handbook of the political economy of science*, 351, 9781315685397-31.
 
+Vayena, E., & Tasioulas, J. (2015). “We the scientists”: a human right to citizen science. *Philosophy & Technology*, 28(3), 479-485.
