@@ -10,7 +10,7 @@ To recap: Science is about producing knowledge, citizen science about involving 
 ## I discovered some interesting peer production features online that I would like to share. Can I contribute to this blog? Can I use the content of this blog for my own purposes?
 Yes! You are cordially invited to add your own blog posts about great peer production features you discovered online (here is a template for blog posts), to update or comment on existing articles. You are also free to reuse the content according to the CC-BY-SA licence (see **Licences***).
 
-# I am a developer. Can I adapt or use your template?
+## I am a developer. Can I adapt or use your template?
 You are cordially invited to improve the template of this Github pages/Jekyll template. Just send a pull request 😊 You are also free to reuse the code according to the CC-BY-SA/MIT licence (see **Licences***).
 
 # Licences 
