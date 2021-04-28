@@ -12,21 +12,6 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
-# Authors
-authors:
-  kat:
-    name: Katharina Kloppenborg
-    display_name: Katharina
-    avatar: assets/images/avatar-kat.jpg
-    email: katharina.kloppenborg@cri-paris.org
-    web: https://peer-produced.science/team/
-    twitter: https://twitter.com/k_kloppenborg
-    description: "PhD student at CRI (Center for Research and Interdisciplinarity) in Paris, experimenting with a user-centered approach to support the peer-production of knowledge in citizen science."
-  unknown:
-    name: Author not specified
-    display_name: Author not specified
-    description: "The author did not create a profile for our blog. However, you can see who uploaded this post by checking the commit history on the project's GitHub repository: https://github.com/PeerProducedResearch/best-practices/tree/main/_posts"
-
 # Plugins
 plugins:
   - jekyll-paginate
