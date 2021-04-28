@@ -1,8 +1,4 @@
----
-layout: default
-title: Home
----
-<h3>New here?</h3>
+I"ê <h3>New here?</h3>
 <details>
   <summary>What is peer production and why is there a need for a webdesign guide specifically for this?</summary>
   <p> Peer production is a way of online distributed knowledge production that relies on the collective intelligence of 
@@ -35,7 +31,7 @@ title: Home
   <p> See <a href="https://peer-produced.science/best-practices/get-involved">Get Involved</a>.</p>
 </details>
 
-<br>
+<p><br /></p>
 
 <h3>Guide to peer production elements for websites</h3>
 <details>
@@ -84,7 +80,7 @@ in the environment and build upon the work of other users.</p>
 </details>
 
 <details>
-  <summary><b>Granularity & modularity</b></summary>
+  <summary><b>Granularity &amp; modularity</b></summary>
   <p>Tasks should be broken down to smaller modules that fit together as a whole. This helps to attract people with different skills, backgrounds and time available. Also it makes it easier for newcomers if there are smaller and easier tasks available.</p>
   <p><i>Example from Wikipedia: </i>The most salient modules in Wikipedia are articles, whose subparts (sections, paragraphs, etc.) can be edited semi-independently. In addition, templates can be created and reused across articles, and images are reusable across articles and languages.</p>
 </details>
@@ -124,4 +120,4 @@ in the environment and build upon the work of other users.</p>
   <p><i>Example from Wikipedia: </i>There are socializing events, like the annual Wikimania conference, thematic groups, and communication possibilities like forums or chats.</p>
 </details>
 
-
+:ET
