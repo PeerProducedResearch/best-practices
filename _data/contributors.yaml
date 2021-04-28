@@ -1,0 +1,24 @@
+# List of contributors
+#
+# valid tags: name, display_name, github, email, web, twitter, joined, description, avatar
+#
+---
+
+# dummy entry to avoid build fails if no author is entered for blog posts 
+unspecified:
+    name: "Unspecified contributor" 
+    display_name: Contributor
+    contributors: "no" #this option lets the user not appear in the contributors list
+    description: "The contributor has not been added to the <a href='https://github.com/PeerProducedResearch/best-practices/_data/contributors.yaml'>contributor-list</a>."
+
+# our real contributors <3
+katoss:
+    name: "Katharina Kloppenborg"
+    display_name: Katharina
+    github: katoss
+    avatar: assets/images/avatar-kat.jpg
+    email: katharina.kloppenborg@cri-paris.org
+    web: https://peer-produced.science/team/
+    twitter: https://twitter.com/k_kloppenborg
+    joined: 02-2021
+    description: "PhD student at CRI (Center for Research and Interdisciplinarity) in Paris, experimenting with a user-centered approach to support the peer-production of knowledge in citizen science."

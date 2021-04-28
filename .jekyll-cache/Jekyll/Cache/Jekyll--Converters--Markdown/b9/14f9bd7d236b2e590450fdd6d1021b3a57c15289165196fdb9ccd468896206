@@ -1,16 +1,10 @@
----
-layout: page
-title: Contributors
-permalink: /contributors
-comments: true
----
-{% assign contributors = site.data['contributors'] %}
-{% assign ckeys = "" | split: ',' %}
+I"J<p>{% assign contributors = site.data[‘contributors’] %}
+{% assign ckeys = “” | split: ‘,’ %}
 {% for x in contributors %}
 	 {% assign ckeys = ckeys | push: x[0] %}
 {% endfor %}
 {% assign ckeysN = ckeys | size %}
-{% assign shuffled_contributors = ckeys | sample: ckeysN %}
+{% assign shuffled_contributors = ckeys | sample: ckeysN %}</p>
 
 <section>
     <!--<p class="lead">
@@ -25,9 +19,9 @@ comments: true
 
                 <a href="{{ site.baseurl }}/contributors/{{ username }}/" class="thumbnail">
                 {% if contributors[username].github != false %}
-                    <img src="https://avatars.githubusercontent.com/{{ username }}" alt="{{ username }}">
+                    <img src="https://avatars.githubusercontent.com/{{ username }}" alt="{{ username }}" />
                 {% else %}
-                    <img src="https://avatars.githubusercontent.com/{{ username }}" alt="{{ username }}">
+                    <img src="https://avatars.githubusercontent.com/{{ username }}" alt="{{ username }}" />
                 {% endif %}
                 </a>
 
@@ -48,3 +42,4 @@ comments: true
         </p>
     </details>
 </section>
+:ET

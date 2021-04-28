@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'I did this!' - A feedback feature for instruction manuals on Public Lab"
-author: kat
+author: katoss
 categories: [ public-lab, environmental-monitoring, diy-science, communal-validation, feedback, feature, UI ]
 image: assets/images/2021-02-22-I-did-it-feature-0.jpg
 synopsis: "Replication of DIY research activities"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "License selection on iNaturalist"
-author: kat 
+author: katoss 
 categories: [licensing, inaturalist, feature, ui, biodiversity, reuse] 
 image: assets/images/2021-03-09-license-selection-inat-0.jpg
 synopsis: "Helping users to choose the right license"

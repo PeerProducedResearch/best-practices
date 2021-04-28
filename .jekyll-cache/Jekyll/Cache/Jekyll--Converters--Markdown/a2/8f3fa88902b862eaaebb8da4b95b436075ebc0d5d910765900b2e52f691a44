@@ -1,8 +1,4 @@
----
-layout: default
-title: Home
----
-<h3>New here?</h3>
+I"Å<h3>New here?</h3>
 <details>
   <summary>What is peer production and why is there a need for a webdesign guide specifically for this?</summary>
   <p> Peer production is a way of online distributed knowledge production that relies on the collective intelligence of 
@@ -35,7 +31,7 @@ title: Home
   <p> See <a href="https://peer-produced.science/best-practices/get-involved">Get Involved</a>.</p>
 </details>
 
-<br>
+<p><br /></p>
 
 <h3>Guide to peer production elements for websites</h3>
 <details>
@@ -59,7 +55,7 @@ title: Home
 </details>
 
 <details>
-  <summary><b>Granularity & modularity</b></summary>
+  <summary><b>Granularity &amp; modularity</b></summary>
   <p> tbd </p>
 </details>
 
@@ -83,4 +79,4 @@ title: Home
   <p> tbd </p>
 </details>
 
-
+:ET

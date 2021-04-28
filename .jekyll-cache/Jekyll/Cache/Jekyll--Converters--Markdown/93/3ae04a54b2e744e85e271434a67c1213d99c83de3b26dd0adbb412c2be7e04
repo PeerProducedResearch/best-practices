@@ -1,0 +1,25 @@
+I"P<h3 id="what-is-this-website-about">What is this website about?</h3>
+<p>This website is thought to be an ever-growing <strong>collection of guidelines and best practices for online peer production</strong>. It is aimed at web developers and UX designers who want to build peer production platforms, and more generally at people interested in increasing participation in their online projects. The thematic priority is the peer production of research projects in citizen science (because this is what my <a href="https://projects.cri-paris.org/projects/DngFftiU/summary">PhD is about</a>. See also “Who are you and why did you create this website?” on this page), but the guidelines and features should be applicable to other peer production contexts, too. I will also add new features from time to time, if I find something interesting, and you are also cordially invited to contribute!</p>
+
+<h3 id="what-is-peer-production-what-is-citizen-science-why-peer-production-in-citizen-science">What is peer production? What is citizen science? Why peer production in citizen science?</h3>
+<p>Peer production is a way of online distributed knowledge production that relies on the collective intelligence of self-organizing groups of individuals, without or with less rigid hierarchical control and management (Benkler et al., 2015). This mode of knowledge production is most commonly known from projects like Wikipedia or Open Source Software. Thus, provenly, complex knowledge objects, like an encyclopedia or software code can and still continue to be developed in this way. Science, from a very general perspective, can also be framed as the creation of complex knowledge objects, and more and more of these objects take shape as a digital format, e.g. in the form of databases, code or articles (Bechhofer et al., 2010). Citizen science is about involving the public in scientific activities, or more specifically individuals who don’t necessarily have formal academic credentials, like a university degree. This practice holds a connotation of democratizing the access to science as a whole and allows, in some of its variants, participation in several phases of the research cycle or completely autonomous research (Ottinger et al., 2017; Vayena et al., 2015).</p>
+
+<p>To recap: Science is about producing knowledge, citizen science about involving individuals from the public in this process. Peer production is a way of producing knowledge, relying on self-organizing communities with individuals from the public. So why not adopt a peer production approach in citizen science projects?</p>
+
+<h3 id="who-are-you-and-why-did-you-create-this-website">Who are you and why did you create this website?</h3>
+<p>Hi, I’m Katharina, a PhD student at the Center for Research and Interdisciplinarity (CRI) in Paris, FR! :) I have a background in cognitive science and human-computer-interaction. My <a href="https://projects.cri-paris.org/projects/DngFftiU/summary">thesis project</a> is about the participatory development of online platforms that support people doing personal science. More specifically, I want to see if peer
+production elements are helpful for this kind of collaborative work. In the beginning of my PhD, I tried to understand and operationalize peer production and how it can
+be implemented in practice. This project started out as supplementary material for a scientific article I’m writing on this topic (link to the preprint will follow asap). It included lots of research on peer production online platforms, too much to discuss all in detail in an article. Since, to the best of my knowledge, guidelines of this kind don’t exist yet, I hope that my <em>personal notes</em> can be helpful to other people in form of this open online resource, developed as part of the <a href="https://openlifesci.org/">Open Life Science mentoring program</a>.</p>
+
+<h3 id="can-i-contribute-to-the-content-or-the-code-of-this-website">Can I contribute to the content or the code of this website?</h3>
+<p>Yes! See <a href="https://peer-produced.science/best-practices/get-involved">Get involved</a>.</p>
+
+<h3 id="references">References</h3>
+<p>Bechhofer, S., De Roure, D., Gamble, M., Goble, C., &amp; Buchan, I. (2010). Research objects: Towards exchange and reuse of digital knowledge. <em>Nature Precedings</em>, 1-1.</p>
+
+<p>Benkler, Y., Shaw, A., &amp; Hill, B. M. (2015). Peer production: A form of collective intelligence. <em>Handbook of collective intelligence</em>, 175.</p>
+
+<p>Ottinger, G., Tyfield, D., Lave, R., Randalls, S., &amp; Thorpe, R. (2017). Reconstructing or reproducing? Scientific authority and models of change in two traditions of citizen science. <em>The routledge handbook of the political economy of science</em>, 351, 9781315685397-31.</p>
+
+<p>Vayena, E., &amp; Tasioulas, J. (2015). “We the scientists”: a human right to citizen science. <em>Philosophy &amp; Technology</em>, 28(3), 479-485.</p>
+:ET

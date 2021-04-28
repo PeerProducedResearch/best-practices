@@ -77,10 +77,14 @@ ga('send', 'pageview');
 
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/get-involved">Get involved</a>
-                    </li>
+                </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://github.com/PeerProducedResearch/best-practices"><i class="fab fa-github"></i></a>
+                    <a class="nav-link" href="{{ site.baseurl }}/contributors">Contributors</a>
+                </li>
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://github.com/PeerProducedResearch/best-practices"><i class="fab fa-github"></i> GitHub</a>
                 </li>
 
                 {% include search-lunr.html %}
@@ -117,6 +121,7 @@ ga('send', 'pageview');
 
 <!-- Categories Jumbotron
 ================================================== -->
+{% if paginator.posts != null %}
 <div class="section-title mt-4">
         <h2><span>Tags</span></h2>
     </div>
@@ -144,7 +149,7 @@ ga('send', 'pageview');
 
     <div class="section-title">
 
-        <h2><span>All Categories</span></h2>
+        <h2><span>All Features</span></h2>
 
     </div>
 
@@ -159,6 +164,7 @@ ga('send', 'pageview');
     </div>
 
 </section>
+{% endif %}
 
 <!-- Pagination
 ================================================== -->

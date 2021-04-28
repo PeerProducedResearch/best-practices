@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Validation of community IDs on iNaturalist"
-author: kat 
+author: katoss 
 categories: [communal-validation, inaturalist, feature, ui, feedback, biodiversity] 
 image: assets/images/2021-03-09-validation-community-ids-inat-0.jpg
 synopsis: "How to agree on a solution in research quality?"

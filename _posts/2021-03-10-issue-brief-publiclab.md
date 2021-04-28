@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue Briefs on Public Lab"
-author: kat 
+author: katoss 
 categories: [public-lab, environmental-monitoring, feature, learning, newcomers, getting-started, research-concept] 
 image: assets/images/2021-03-10-issue-brief-publiclab-0.jpg
 synopsis: "Get input on how to start your research"

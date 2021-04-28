@@ -16,7 +16,8 @@ post_class: post-template
         </div>
 
         <!-- Post -->
-        {% assign author = site.authors[page.author] %}
+        <!--{% assign author = site.authors[page.author] %}-->
+        {% assign author = site.data['contributors'][page.author] %}
 
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
@@ -108,15 +109,23 @@ post_class: post-template
             <div class="row post-top-meta">
                 <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                     {% if author.avatar %}
-                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}"/>
+                    {% elsif author.github %}
+                    <img class="author-thumb" src="https://avatars.githubusercontent.com/{{ author.github }}" alt="{{ username }}">
                     {% else %}
                     <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                     {% endif %}
+                   
+                   <!--
+                   
+                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                    -->
                 </div>
                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                    <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
-                    {%if author.twitter %}<a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>{% endif %}
-                    <span class="author-description">{{ author.description }}</span>
+                    <b>{{ author.display_name }}</b>
+                    {%if author.twitter %}<a target="_blank" href="{{ author.twitter }}" class="btn follow">Twitter</a>{% endif %}
+                    {%if author.github %}<a target="_blank" href="https://github.com/{{ author.github }}" class="btn follow">GitHub</a>{% endif %}
+                    <p class="author-description">{{ author.description }}</p>
                 </div>
             </div>
             {% endif %}
