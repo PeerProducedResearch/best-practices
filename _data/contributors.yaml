@@ -9,7 +9,7 @@ unspecified:
     name: "Unspecified contributor" 
     display_name: Contributor
     contributors: "no" #this option lets the user not appear in the contributors list
-    description: "The contributor has not been added to the <a href='https://github.com/PeerProducedResearch/best-practices/_data/contributors.yaml'>contributor-list</a>."
+    description: "The contributor has not been added to the <a href='https://github.com/PeerProducedResearch/best-practices/blob/main/_data/contributors.yaml'>contributor-list</a>."
 
 # our real contributors <3
 katoss:
