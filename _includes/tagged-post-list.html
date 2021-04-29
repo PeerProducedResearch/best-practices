@@ -1,0 +1,11 @@
+<h4>How did others solve this? - Articles on this topic</h4>
+<ul>
+  {% if paginator.posts != null %}
+  {% for post in paginator.posts %}
+  {% if post.categories contains include.tag %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+  <li><i>Would you like to add an article? See <a href="{{ site.baseurl }}/get-involved">Get involved</a>!</i></li>
+</ul>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Transforming comments to questions on Public Lab"
 author: katoss 
-categories: [public-lab, feature, ui, environmental-monitoring, diy-science, modularity, reuse] 
+categories: [stigmergy, granularity-modularity, reuse, public-lab, environmental-monitoring, diy-science] 
 image: assets/images/2021-03-09-comments-to-questions-publiclab-0.jpg
 synopsis: "Reusing comments of other users"
 ---
