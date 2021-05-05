@@ -119,13 +119,36 @@ ga('send', 'pageview');
     {{ content }}
 </div>	
 
+	
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Articles</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
 <!-- Categories Jumbotron
 ================================================== -->
 {% if paginator.posts != null %}
 <div class="section-title mt-4">
-        <h2><span>Tags</span></h2>
-    </div>
-	<div class="jumbotron fortags">
+        <h2><span>All Categories</span></h2>
+</div>
+<div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
 		<div class="col-md-12 p-5 align-self-center text-center">
             {% assign categories_list = site.categories %}
@@ -142,28 +165,6 @@ ga('send', 'pageview');
 		</div>
 	</div>
 </div>
-	
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Features</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
-
-    </div>
-
-</section>
 {% endif %}
 
 <!-- Pagination
