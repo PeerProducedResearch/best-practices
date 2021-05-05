@@ -793,6 +793,14 @@ iframe {
     }
 }
 
+.jumbotron-appendix {
+    background-color: #e9ecef;
+    padding: 0;
+    border-radius: 0;
+    background-size: cover;
+    height:auto;
+}
+
 .jumbotron.fortags {
     margin-top: 1rem;
     padding: 0;
@@ -806,7 +814,6 @@ iframe {
     border-radius: 30px;
     color: #fff;
     font-weight: 500;
-    text-transform: lowercase;
     font-size: 0.8rem;
     display: inline-block;
 }
