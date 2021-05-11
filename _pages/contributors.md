@@ -2,7 +2,7 @@
 layout: page
 title: Contributors
 permalink: /contributors
-comments: true
+comments: false
 ---
 {% assign contributors = site.data['contributors'] %}
 {% assign ckeys = "" | split: ',' %}
