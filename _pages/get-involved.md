@@ -14,7 +14,7 @@ Yes! You can add your own blog posts about peer production features you discover
 Yes, you are free to reuse the content according to the CC-BY-SA licence (see **Licences**). Everything can be found and edited on [Github](https://github.com/PeerProducedResearch/best-practices). The blog posts are in the ["_posts"](https://github.com/PeerProducedResearch/best-practices/tree/main/_posts)-folder.
 
 ### Code: I am a developer. Can I adapt or use your template?
-Yes! You can improve the template of this Github pages/Jekyll template. Just send a pull request 😊 You are also free to reuse the code according to the CC-BY-SA/MIT licence (see **Licences**). The code can be found on [Github[(https://github.com/PeerProducedResearch/best-practices).
+Yes! You can improve the template of this Github pages/Jekyll template. Just send a pull request 😊 You are also free to reuse the code according to the CC-BY-SA/MIT licence (see **Licences**). The code can be found on [GitHub](https://github.com/PeerProducedResearch/best-practices).
 
 ### Licences 
 All **content** of this work is licensed under a
@@ -26,3 +26,6 @@ All **content** of this work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 I used the **theme** ['Mediumish for Jekyll'](https://github.com/wowthemesnet/mediumish-theme-jekyll), which was designed and developed by [Sal](https://www.wowthemes.net) and has been published under [**MIT license**](https://github.com/wowthemesnet/mediumish-theme-jekyll/blob/master/LICENSE.txt).
+
+### Contact
+For any other questions, feel free to write me an email ([katharina.kloppenborg@cri-paris.org](mailto:katharina.kloppenborg@cri-paris.org)).
