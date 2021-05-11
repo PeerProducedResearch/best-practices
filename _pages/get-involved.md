@@ -7,6 +7,8 @@ comments: true
 ### Can I contribute to this website?
 Yes, you are cordially invited to do so! This project is open for reuse and participation, developed as part of the [Open Life Science mentoring program](https://openlifesci.org/). See the points below for specifications on how to contribute to or reuse content or code. Please add your details to our [contributors file](https://github.com/PeerProducedResearch/best-practices/blob/main/_data/contributors.yaml), so you appear below your posts and in our contributors list!
 
+You can also open an issue on the project's [GitHub repository](https://github.com/PeerProducedResearch/best-practices/issues) or write me an [email](mailto:katharina.kloppenborg@cri-paris.org) for more general questions.
+
 ### Content: I discovered some interesting peer production features online that I would like to share. Can I contribute to this blog? 
 Yes! You can add your own blog posts about peer production features you discovered online, to update or comment on existing articles. We have a template for blog posts that you can use: Just create a new markdown file in the ["_posts"-Folder](https://github.com/PeerProducedResearch/best-practices/tree/main/_posts) on GitHub, name it according to the schema YYYY-MM-DD-title-of-your-post.md and copy-paste the content of the [template file](https://github.com/PeerProducedResearch/best-practices/blob/main/_posts/2000-01-01-blog-post-template.md) to your file (to see the unrendered markdown-text, go to edit-mode by clicking on the pencil in the top right corner). Now you can write your article! 
 
