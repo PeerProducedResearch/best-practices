@@ -47,8 +47,11 @@ To add a comment, you need to create an account for disqus, our comment system.
 ### Adding new blog posts
 
 This project is open to contributions! :) If you have anything related to best practices for the peer-production of knowledge to share, you are very welcome to write a blog post and publish it here!
-In the folder "posts" you find a template for blog posts that you can copy and use for your own post. Please have a look at other blog posts to look for naming conventions for blog posts and images.
-If you have a suggestion for a blog post, but don't have the time to write a blog post yourself, feel free to open an issue with your suggestion!
+At the moment there are two ways to upload blog posts to our blog:
+1) **Create the files yourself:** In the folder "posts" you find a template for blog posts that you can copy and use for your own post. Please have a look at other blog posts to look for naming conventions for blog posts and images. 
+2) **Create a GitHub issue with the content of your blog post and we upload it for you:** Got to the issue-tab, click on "new issue" and select the "template for blog post" issue template. This template has the same content as the blog post template under point 1. Just paste your content there, create an issue and we will add your blog entry to our website! This might be a good option if you are not so comfortable yet with uploading files on GitHub yourself, or also if you would like to ask for feedback for your post before uploading it. 
+
+If you have a **suggestion for a blog post** or another related question, but don't have the time to write a blog post yourself, you can also create an issue (no need to use the template in that case!)!
 
 ### Improving the website code
 
