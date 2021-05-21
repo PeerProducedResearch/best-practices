@@ -1,7 +1,7 @@
 # Site
-name: "P2P Best Practices"
-title: "P2P Best Practices"
-description: "Welcome to this collection of best practices to build great sites for collaborative knowledge production"
+name: "P2P Design Practices"
+title: "P2P Design Practices"
+description: "Welcome to this collection of design practices to build great sites for collaborative knowledge production"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/design-practices'
