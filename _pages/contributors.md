@@ -44,7 +44,7 @@ comments: false
     <details>
         <summary>I contributed to this website. How can I make my name appear in this list?</summary>
         <p>
-            First of all, thank you for contributing &lt;3! To make your name show up in this list, simply add your details to the <a href="https://github.com/PeerProducedResearch/best-practices/blob/main/_data/contributors.yaml">"contributors.yaml"</a> file in our GitHub repository.
+            First of all, thank you for contributing &lt;3! To make your name show up in this list, simply add your details to the <a href="https://github.com/PeerProducedResearch/design-practices/blob/main/_data/contributors.yaml">"contributors.yaml"</a> file in our GitHub repository.
         </p>
     </details>
 </section>
