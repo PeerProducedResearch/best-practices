@@ -19,7 +19,7 @@ production elements are helpful for this kind of collaborative work. In the begi
 be implemented in practice. This project started out as supplementary material for a scientific article I’m writing on this topic (link to the preprint will follow asap). It included lots of research on peer production online platforms, too much to discuss all in detail in an article. Since, to the best of my knowledge, guidelines of this kind don’t exist yet, I hope that my *personal notes* can be helpful to other people in form of this open online resource, developed as part of the [Open Life Science mentoring program](https://openlifesci.org/).
 
 ### Can I contribute to the content or the code of this website?
-Yes! See [Get involved](https://peer-produced.science/best-practices/get-involved).
+Yes! See [Get involved](https://peer-produced.science/design-practices/get-involved).
 
 ### References
 Bechhofer, S., De Roure, D., Gamble, M., Goble, C., & Buchan, I. (2010). Research objects: Towards exchange and reuse of digital knowledge. *Nature Precedings*, 1-1.
