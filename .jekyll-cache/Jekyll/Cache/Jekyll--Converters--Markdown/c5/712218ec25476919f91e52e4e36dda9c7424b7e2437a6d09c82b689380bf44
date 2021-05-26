@@ -1,0 +1,45 @@
+I"L<p>{% assign contributors = site.data[‘contributors’] %}
+{% assign ckeys = “” | split: ‘,’ %}
+{% for x in contributors %}
+	 {% assign ckeys = ckeys | push: x[0] %}
+{% endfor %}
+{% assign ckeysN = ckeys | size %}
+{% assign shuffled_contributors = ckeys | sample: ckeysN %}</p>
+
+<section>
+    <!--<p class="lead">
+        This website has <strong>{{ contributors| where_exp: "item", "item.contributors != 'no'"| size }}</strong>
+        contributors! A big <em>Thank You</em> to all of them!
+    </p>-->
+
+    <div class="contributors">
+        {% for username in shuffled_contributors %}
+            {% unless contributors[username].contributors == "no" %}
+            <div class="contributors-img" id="{{ username }}">
+
+                <a href="{{ site.baseurl }}/contributors/{{ username }}/" class="thumbnail">
+                {% if contributors[username].github != false %}
+                    <img src="https://avatars.githubusercontent.com/{{ username }}" alt="{{ username }}" />
+                {% else %}
+                    <img src="https://avatars.githubusercontent.com/{{ username }}" alt="{{ username }}" />
+                {% endif %}
+                </a>
+
+                <div class="name">
+                    {{ contributors[username].name | default: username }}
+                </div>
+            </div>
+            {% endunless %}
+        {% endfor %}
+    </div>
+</section>
+
+<section>
+    <details>
+        <summary>I contributed to this website. How can I make my name appear in this list?</summary>
+        <p>
+            First of all, thank you for contributing &lt;3! To make your name show up in this list, simply add your details to the <a href="https://github.com/PeerProducedResearch/design-practices/blob/main/_data/contributors.yaml">"contributors.yaml"</a> file in our GitHub repository.
+        </p>
+    </details>
+</section>
+:ET

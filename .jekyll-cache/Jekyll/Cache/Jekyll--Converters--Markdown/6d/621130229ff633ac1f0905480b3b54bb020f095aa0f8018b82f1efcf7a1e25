@@ -1,0 +1,46 @@
+I"k<p class="text-muted small">(Wondering how to add your blog posts to this blog? Have a look here: <a href="/design-practices/get-involved">Get involved</a>)</p>
+
+<h2 id="why-learning-on-peer-production-platforms">Why learning on peer production platforms?</h2>
+
+<p>Learning features are essential to enable participation for a broad range of people with different backgrounds and skill levels. They help users to learn how to contribute to tasks right on the platform, and do not presume that everybody already has the necessary skills from the start. This can be achieved by digital affordances on the platform placed in the context of a task, for example a link to a tutorial or templates and instructions, or also via direct communication, for example in community calls.</p>
+
+<h2 id="how-is-learning-facilitated-on-public-lab">How is learning facilitated on Public Lab?</h2>
+
+<p>Public Lab’s vision of the scientific process focusses on creativity, collaboration, trial-and-error and learning:</p>
+
+<blockquote class="blockquote">
+  <div class="mb-0">
+      <p class="small">"Science is, at its heart, a creative, collaborative process. It is advanced as individuals question their world, design experiments to challenge assumptions, and share their results with a community of other thinkers, who, in turn, question, experiment, and share their findings. Employing multiple modes of learning helps to engage a broader transect of people and expands the Public Lab community by rendering complex information accessible to many different types of researchers and learners."</p> 
+  </div>
+  <footer class="blockquote-footer">Breen et al., 2019</footer>
+</blockquote>
+
+<p>I line with this vision, Public Lab actively encourages newcomers with context-based learning features and direct communication like onboarding calls:</p>
+
+<p>New users are invited to upload their first attempts by tagging them with “first-time-posters” and all users are also encouraged to upload failed attempts, under the
+motto “things going wrong are just as important as things succeeding” (Breen et al., 2019). In their <a href="https://code.publiclab.org/">coding community</a>, there is a collection of “first-timers only issues”: simple tasks formatted using a specific template, that aim to help people who contribute to Github for the first time.</p>
+
+<p>There is a welcome page that offers starting points for different kinds of motivations (see Figure 1).</p>
+
+<figure class="figure">
+  <img src="/design-practices/assets/images/2021-05-26-enable-encourage-learning-publiclab-1.jpg" class="figure-img img-fluid border border-secondary" alt="A screenshot of the welcome page of Public Lab, containing suggestions of first steps to take on the platform as a new user. Link in the figure caption." />
+  <figcaption class="figure-caption">Figure 1: A part of the [welcome page](https://publiclab.org/wiki/welcome#Getting+Started:) on Public Lab</figcaption>
+</figure>
+
+<p>Public Lab has many features for context-based learning. There are, for example, templates for contributions or links to pages containing explanations for all content
+types, as well as instructions in every textfield (see Figure 2). Moreover, the artifact <a href="/design-practices/issue-brief-publiclab/">“issue brief”</a>) is specifically made for users who don’t know how to start their research.</p>
+
+<figure class="figure">
+  <img src="/design-practices/assets/images/2021-05-26-enable-encourage-learning-publiclab-2.jpg" class="figure-img img-fluid border border-secondary" alt="A screenshot of a textbox titled 'post comment', including a default text with the following instructions: 'Help the author refine their post, or point them at other helpful information on the site. Mention users @username to notify them of this thread by email'" />
+  <figcaption class="figure-caption">Figure 2: Default text for comments on Public Lab</figcaption>
+</figure>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li><a href="https://www.publiclab.org/">Public Lab website</a></li>
+  <li>Kloppenborg, K., Ball, M. P., &amp; Greshake Tzovaras, B. (2021, May 23). Peer Production Practices: Design Strategies in Online Citizen Science Platforms. <a href="https://doi.org/10.31235/osf.io/rw58y">https://doi.org/10.31235/osf.io/rw58y</a></li>
+  <li>Breen, J., Dosemagen, S., Blair, D., &amp; Barry, L. (2019). Public laboratory: Play and civic engagement. The Playful Citizen, 162.</li>
+</ul>
+
+:ET

@@ -68,7 +68,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Browse all</a>
+                <a class="nav-link" href="{{ site.baseurl }}/browse-all">Browse all</a>
                 </li>
 
                 <li class="nav-item">
@@ -107,7 +107,7 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    <h1 class="sitetitle"><a href="{{ site.baseurl }}/index.html" style="color: black;">{{ site.name }}</a></h1>
     <p class="lead">
         {{ site.description }}
     </p>
@@ -127,7 +127,7 @@ ga('send', 'pageview');
 
     <div class="section-title mt-5">
 
-        <h2><span>All Articles</span></h2>
+        <h2><span>Recent Articles</span></h2>
 
     </div>
 
@@ -142,6 +142,15 @@ ga('send', 'pageview');
     </div>
 
 </section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
+    </div>
 
 <!-- Categories Jumbotron
 ================================================== -->
@@ -166,15 +175,6 @@ ga('send', 'pageview');
 	</div>
 </div>
 {% endif %}
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
 
 <!-- {% if site.mailchimp-list %}
 Bottom Alert Bar

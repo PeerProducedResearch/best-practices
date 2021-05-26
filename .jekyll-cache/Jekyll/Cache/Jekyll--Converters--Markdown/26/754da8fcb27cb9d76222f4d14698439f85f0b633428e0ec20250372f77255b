@@ -1,0 +1,38 @@
+I"{
+<section>
+    <!--<p class="lead">
+        This website has <strong>1</strong>
+        contributors! A big <em>Thank You</em> to all of them!
+    </p>-->
+
+    <div class="contributors">
+        
+            
+        
+            
+            <div class="contributors-img" id="katoss">
+
+                <a href="/design-practices/contributors/katoss/" class="thumbnail">
+                
+                    <img src="https://avatars.githubusercontent.com/katoss" alt="katoss" />
+                
+                </a>
+
+                <div class="name">
+                    Katharina Kloppenborg
+                </div>
+            </div>
+            
+        
+    </div>
+</section>
+
+<section>
+    <details>
+        <summary>I contributed to this website. How can I make my name appear in this list?</summary>
+        <p>
+            First of all, thank you for contributing &lt;3! To make your name show up in this list, simply add your details to the <a href="https://github.com/PeerProducedResearch/design-practices/blob/main/_data/contributors.yaml">"contributors.yaml"</a> file in our GitHub repository.
+        </p>
+    </details>
+</section>
+:ET

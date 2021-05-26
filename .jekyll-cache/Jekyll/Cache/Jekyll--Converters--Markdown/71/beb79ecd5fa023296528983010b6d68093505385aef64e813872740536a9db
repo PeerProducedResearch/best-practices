@@ -1,0 +1,26 @@
+I"ë	<p class="text-muted small">(Wondering how to add your blog posts to this blog? Have a look here: <a href="/design-practices/get-involved">Get involved</a>)</p>
+
+<h2 id="direct-vs-indirect-communication-and-why-social-features-are-important-for-community-building">Direct vs indirect communication and why social features are important for community-building</h2>
+
+<p>The actual knowledge production in peer production usually takes place on the platform itself and people communicate indirectly via the digital signs (for example, they could comment on the work of someone else, <a href="/design-practices/I-did-it-feature/">reproduce an activity</a>, <a href="/design-practices/validation-community-ids-inat/">agree or disagree with a data classification</a> of somebody else, or edit an existing article). Indirect communication is a principle of <em>stigmergy</em> (Dipple et al., 2012), a crucial element of online peer production websites.</p>
+
+<p>Direct communication is not mediated by digital signs and not necessarily work related. It can take place offline in the contexts of more or less formal meetings. In online environments, it can be enabled via chats, emails or (video)calls. Exchanging directly, especially face-to-face can be an important part of community-building and can increase trust (Rocco, 1998). Regular open calls (e.g. like <a href="https://publiclab.org/wiki/open-call">here on Public Lab</a>) can, apart from allowing for general exchange in a less formal atmosphere, encourage newcomers to join the project.</p>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>Kloppenborg, K., Ball, M. P., &amp; Greshake Tzovaras, B. (2021, May 23). Peer Production Practices: Design Strategies in Online Citizen Science Platforms. <a href="https://doi.org/10.31235/osf.io/rw58y">https://doi.org/10.31235/osf.io/rw58y</a></li>
+  <li>Kostakis, V., &amp; Bauwens, M. (2020). Grammar of Peer Production. The Handbook of Peer Production, 19-32.</li>
+</ul>
+
+<p><strong>On trust in electronic vs face-to-face contexts:</strong></p>
+<ul>
+  <li>Rocco, E. (1998, January). Trust breaks down in electronic contexts but can be repaired by some initial face-to-face contact. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 496-502).</li>
+</ul>
+
+<p><strong>On stigmergy on websites:</strong></p>
+<ul>
+  <li>Dipple, A., Raymond, K., &amp; Docherty, M. (2012, June). Stigmergy in web 2.0: a model for site dynamics. In Proceedings of the 4th Annual ACM Web Science Conference (pp. 86-94).</li>
+</ul>
+
+:ET

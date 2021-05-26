@@ -1,0 +1,31 @@
+I"�<h3 id="can-i-contribute-to-this-website">Can I contribute to this website?</h3>
+<p>Yes, you are cordially invited to do so! This project is open for reuse and participation, developed as part of the <a href="https://openlifesci.org/">Open Life Science mentoring program</a>. See the points below for specifications on how to contribute to or reuse content or code. Please add your details to our <a href="https://github.com/PeerProducedResearch/best-practices/blob/main/_data/contributors.yaml">contributors file</a>, so you appear below your posts and in our contributors list!</p>
+
+<p>You can also open an issue on the project’s <a href="https://github.com/PeerProducedResearch/design-practices/issues">GitHub repository</a> or write me an <a href="mailto:katharina.kloppenborg@cri-paris.org">email</a> for more general questions.</p>
+
+<h3 id="content-i-discovered-some-interesting-peer-production-features-online-that-i-would-like-to-share-can-i-contribute-to-this-blog">Content: I discovered some interesting peer production features online that I would like to share. Can I contribute to this blog?</h3>
+<p>Yes! You can add your own blog posts about peer production features you discovered online, to update or comment on existing articles. We have a template for blog posts that you can use. At the moment there are two ways to add blog posts:</p>
+
+<p>1) <strong>Create the files yourself</strong>: Create a new markdown file in the <a href="https://github.com/PeerProducedResearch/design-practices/tree/main/_posts">“_posts”-Folder</a> on GitHub, name it according to the schema YYYY-MM-DD-title-of-your-post.md and copy-paste the content of the <a href="https://github.com/PeerProducedResearch/design-practices/blob/main/_posts/2000-01-01-blog-post-template.md">template file</a> to your file (to see the unrendered markdown-text, go to edit-mode by clicking on the pencil in the top right corner). Now you can write your article!</p>
+
+<p>2) <strong>Create a GitHub issue with the content of your blog post and we upload it for you:</strong> Got to the issue-tab, click on “new issue” and select the “template for blog post” issue template (<a href="https://github.com/PeerProducedResearch/design-practices/issues/new/choose">here</a>). This template has the same content as the blog post template under point 1. Just paste your content there, create an issue and we will add your blog entry to our website! This might be a good option if you are not so comfortable yet with uploading files on GitHub yourself, or also if you would like to ask for feedback for your post before uploading it.</p>
+
+<p>If you have a <strong>suggestion for a blog post</strong> or another related question, but don’t have the time to write a blog post yourself, you can also create an issue (no need to use the template in that case!)!</p>
+
+<h3 id="content-can-i-use-the-content-of-this-blog-for-my-own-purposes">Content: Can I use the content of this blog for my own purposes?</h3>
+<p>Yes, you are free to reuse the content according to the CC-BY-SA licence (see <strong>Licences</strong>). Everything can be found and edited on <a href="https://github.com/PeerProducedResearch/design-practices">Github</a>. The blog posts are in the <a href="https://github.com/PeerProducedResearch/design-practices/tree/main/_posts">“_posts”</a>-folder.</p>
+
+<h3 id="code-i-am-a-developer-can-i-adapt-or-use-your-template">Code: I am a developer. Can I adapt or use your template?</h3>
+<p>Yes! You can improve the template of this Github pages/Jekyll template. Just send a pull request 😊 You are also free to reuse the code according to the CC-BY-SA/MIT licence (see <strong>Licences</strong>). The code can be found on <a href="https://github.com/PeerProducedResearch/design-practices">GitHub</a>.</p>
+
+<h3 id="licences">Licences</h3>
+<p>All <strong>content</strong> of this work is licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+
+<p><a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0" /></a></p>
+
+<p>I used the <strong>theme</strong> <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">‘Mediumish for Jekyll’</a>, which was designed and developed by <a href="https://www.wowthemes.net">Sal</a> and has been published under <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll/blob/master/LICENSE.txt"><strong>MIT license</strong></a>.</p>
+
+<h3 id="contact">Contact</h3>
+<p>For any other questions, feel free to write me an email (<a href="mailto:katharina.kloppenborg@cri-paris.org">katharina.kloppenborg@cri-paris.org</a>).</p>
+:ET

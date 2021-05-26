@@ -10,8 +10,6 @@ synopsis: "Helping users to choose the right license"
 
 ## Short introduction to the feature
 
-Public Lab aims to empower people to address environmental justice issues through community science and open technology. They focus on the collaborative development, sharing, reuse and adaption of DIY scientific tools. 
-
 <a href="https://www.inaturalist.org/">iNaturalist</a> is a an online platform where anyone can share and identify observations of wild animals and plants. When a user uploads an observation with a photo, they can choose a license to give (or not give) others the legal rights to use it. To support users in deciding on a license, they use a an informative pop-up form.
 
 ## How does it work?
@@ -25,9 +23,6 @@ The license is displayed next to the photo for anyone to see, and the user can e
   <figcaption class="figure-caption">Figure 1: Some of the metadata of an observation on iNaturalist, the licensing-part highlighted in red
   <a href="https://www.inaturalist.org/photos/112605091">(Link)</a></figcaption>
 </figure>
-Figure x: A question in a comment section with an affordance encouraging people to reuse the comment as a question artifact (Source: https://publiclab.org/questions/purl/01-26-2021/what-are-some-affordable-methods-of-air-quality-monitoring-in-new-orleans )
-
-
 
 To help the user choose a license, iNaturalist uses a pop-up form, displaying all possible choices (see Figure 2). At first, they explain why licensing is important and how they use Creative Commons-licensed content. 
 

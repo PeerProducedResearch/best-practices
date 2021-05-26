@@ -1,0 +1,30 @@
+I" <p class="text-muted small">(Wondering how to add your blog posts to this blog? Have a look here: <a href="/design-practices/get-involved">Get involved</a>)</p>
+
+<h2 id="how-do-these-factors-condition-one-another">How do these factors condition one another?</h2>
+
+<p>A characteristic of peer production is <em>equipotentiality</em> (equal + potential). This means that in theory everyone has the right to contribute to tasks of their interest, without the need of any formal entry credentials, like a university degree, which is usually used in academia to pre-judge the ability of someone to perform a task or take a role. In peer production, people self-select the task they want to contribute to, and their ability to perform it is then judged afterwards by the community, by verifying the quality of the work itself (Kostakis &amp; Bauwens, 2021).</p>
+
+<p>In order for equipotential self-selection to work in practice, a <em>range of tasks</em> needs to be available on the platform, as well as <em>transparency</em> on which tasks are possible and open at the moment. It means also that the necessary resources need to be accessible on the platform.</p>
+
+<p>In other words, even if users are in theory free to contribute to whichever task they like, but there is only one type of tasks available to users on the platform, one can not really speak of self-selection. Also, if there are tasks available in theory, but users cannot find open tasks, because the platform does not provide affordances for users to discover them, or if they can find them, but they cannot access the necessary resources (like data or questions from other users), there cannot be actual equipotential self-selection in practice.</p>
+
+<h2 id="how-to-enable-equipotential-self-selection">How to enable equipotential self-selection?</h2>
+
+<p>Here are some questions you could think about if you want to enable equipotential self-selection on your platform:</p>
+
+<p>1) Are users from all kinds of backgrounds allowed to contribute to your platform or do you require entry credentials like a university degree? If you require credentials, reflect if they are really necessary for some tasks or if a a posteriori validation of the work by the community could replace the a priori judgement of ability.</p>
+
+<p>2) Think about the range of tasks that users can contribute on the platform. Are there tasks that are only accessible to e.g. administrators, but that could be opened for other users? Are they free to identify and work on new tasks?</p>
+
+<p>3) Can users find open tasks on your platform? How can they find them?</p>
+
+<p>4) Are the necessary resources to work on tasks accessible to users?</p>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>Kloppenborg, K., Ball, M. P., &amp; Greshake Tzovaras, B. (2021, May 23). Peer Production Practices: Design Strategies in Online Citizen Science Platforms. <a href="https://doi.org/10.31235/osf.io/rw58y">https://doi.org/10.31235/osf.io/rw58y</a></li>
+  <li>Kostakis, V., &amp; Bauwens, M. (2020). Grammar of Peer Production. The Handbook of Peer Production, 19-32.</li>
+</ul>
+
+:ET

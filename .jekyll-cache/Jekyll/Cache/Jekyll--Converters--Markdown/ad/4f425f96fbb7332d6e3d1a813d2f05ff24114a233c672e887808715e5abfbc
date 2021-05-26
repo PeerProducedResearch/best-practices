@@ -1,0 +1,38 @@
+I"�<p class="text-muted small">(Wondering how to add your blog posts to this blog? Have a look here: <a href="/design-practices/get-involved">Get involved</a>)</p>
+
+<h2 id="short-introduction-to-the-feature">Short introduction to the feature</h2>
+
+<p><em>Inform the reader in some sentences about your feature! What is is? In which context is it used, and on which website? Why is it interesting for the peer-production of knowledge?</em></p>
+
+<p>Feature X is …</p>
+
+<h2 id="how-does-it-work">How does it work?</h2>
+
+<p><em>Now it is time to explain the feature in more detail. How do users interact with it? Include screenshots, if possible - this will make your explanation easier to understand.</em></p>
+
+<p>At first users see this…</p>
+
+<p><em>Add your images to the assets/images folder and name them like your post with increasing numbers attached, e.g. ‘2021-02-22-I-did-it-feature-0.jpg’</em></p>
+
+<figure class="figure">
+  <img src="/design-practices/assets/images/yyyy-mm-dd-example-screenshot-1.jpg" class="figure-img img-fluid border border-secondary" alt="An alternative text describing the image for screenreaders" />
+  <figcaption class="figure-caption">Figure 1: You can include images by using the html figure element
+(<a href="">Link</a>)</figcaption>
+</figure>
+
+<p>Then they do this…</p>
+
+<figure class="figure">
+  <img src="/design-practices/assets/images/yyyy-mm-dd-example-screenshot-2.jpg" class="figure-img img-fluid border border-secondary" alt="An alternative text describing the image for screenreaders" />
+  <figcaption class="figure-caption">Figure 2: You can include images by using the html figure element (<a href="">Link</a>)</figcaption>
+</figure>
+
+<h1 id="thoughts">Thoughts</h1>
+<p><em>How would you evaluate the feature? What do you like about it? Is there something you don’t like? In which contexts would it be good to use this feature? Are there situations you would rather not use it?</em></p>
+
+<h2 id="references">References</h2>
+<p><em>Paste the link of the website you found this feature here, as well as any other references you used to write this blog post.</em></p>
+<ul>
+  <li><a href="https://">Link to reference</a></li>
+</ul>
+:ET
