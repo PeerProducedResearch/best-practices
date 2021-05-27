@@ -1,4 +1,4 @@
-I"¶1<div class="section-title mt-4"><h2><span>New here?</span></h2></div>
+I"Ý1<div class="section-title mt-4"><h2><span>New here?</span></h2></div>
 <details>
   <summary><b>What is peer production and why is there a need for a webdesign guide specifically for this?</b></summary>
   <p> Peer production is a way of online distributed knowledge production that relies on the collective intelligence of 
@@ -77,15 +77,15 @@
               in the environment and build upon the work of other users.</p>
                 <p><i>Example from Wikipedia:</i>
                   <ul>
-                    <li>Shared purpose: Creation of an open encyclopedia</li>
-                    <li>Environment: wikipedia.org</li>
-                    <li>Agents: Users of Wikipedia</li>
-                    <li>Digital signs:&lt;/b&gt;</li>
+                    <li><b>Shared purpose:</b> Creation of an open encyclopedia</li>
+                    <li><b>Environment:</b> wikipedia.org</li>
+                    <li><b>Agents:</b> Users of Wikipedia</li>
+                    <li><b>Digital signs:</b></li>
                     <ul>
-                      <li>Research artifacts: Articles</li>
-                      <li>Related signs: e.g. talk pages for discussions for every article, red links signalling missing articles, hints for article stubs that need more content</li>
+                      <li><b>Research artifacts:</b> Articles</li>
+                      <li><b>Related signs:</b> e.g. talk pages for discussions for every article, red links signalling missing articles, hints for article stubs that need more content</li>
                     </ul>
-                    <li>Accessibility of content/signs: All content (articles, discussions â€¦) is publicly accessible on the platform
+                    <li><b>Accessibility of content/signs:</b> All content (articles, discussions â€¦) is publicly accessible on the platform
                     </li>
                   </ul></p>
                   {% include tagged-post-list.html tag="stigmergy" %}
